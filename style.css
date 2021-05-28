@@ -4,12 +4,21 @@ body{
 
 /*  */
 header{
+
   color: rgb(190, 43, 6);
   background-color: rgb(0, 0, 0) ;
   height: 100px ;
 }
 
 header nav{ 
+
+  color: #4C9D90;
+  background-color: rgb(0, 0, 0) ;
+  height: 80px ;
+}
+
+header nav{
+
   float: right;
   width: 70%;
   margin-top: 15px;
